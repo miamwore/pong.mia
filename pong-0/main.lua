@@ -6,8 +6,8 @@
     "The Day-0 Update"
     -- main progam --
 
-    Author: silvia
-    silfimlg@gmail.com
+    Author: mia
+    mrsacm1@gmail.com
 
     cara memainkan game pong yaitu dimainkan dengan 2 orang, pemain 1 mengarahkan papan dengan tanda panah atas dan bawah, 
     pemain 2 mengarahkan dengan huruf 'W' dan 'S'. Bola akan memantul ke kanan dan ke kiri ketika memantul ke papan pemain
